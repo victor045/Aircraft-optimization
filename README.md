@@ -98,6 +98,8 @@ Para las 5 mejores soluciones:
 
 ```bash
 pip install numpy matplotlib scipy pymoo
+
+python optimizador_avion_nsga2_extendido.py 
 ```
 
 ---
